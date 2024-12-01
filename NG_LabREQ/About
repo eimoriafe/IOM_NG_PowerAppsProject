@@ -1,1 +1,3 @@
-
+LabREQ is a power platform web app that is used by Doctors, Finance, Laboratory and Project management teams to automate test requests, payment confirmation and tracking of specimen collection from clients with routing visibility, automated notification and secure collaboration.
+This project completed within 90 days from requirement gathering, system design, development, testing and production.
+It is a Canvas frontend integrated with multiple Sharepoint lists as database backend and also integrated with Power Automate flow for notification routing. 
